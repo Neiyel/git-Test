@@ -9,6 +9,6 @@ public class GitDemo {
         System.out.println("timeout commit");
         System.out.println("master hello");
         System.out.println("push test");
-
+        System.out.println("push test");
     }
 }
