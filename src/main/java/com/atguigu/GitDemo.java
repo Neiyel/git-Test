@@ -8,6 +8,7 @@ public class GitDemo {
         System.out.println("hello git4");
         System.out.println("timeout commit");
         System.out.println("master hello");
+        System.out.println("push test");
 
     }
 }
